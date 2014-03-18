@@ -1,4 +1,4 @@
 meteor-pdx-live-coding
 ======================
 
-A repository for the live-coding examples presented at the Meteor Portland meetup.
+A repository for Meteor Portland meetup group as we work through Discover Meteor.
